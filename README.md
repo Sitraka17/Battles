@@ -10,3 +10,4 @@ Since I'm not doing a PhD I will gladly share it frealy :P
 HEre are some nice projects: 
 
 1) https://public.tableau.com/app/profile/tomek7068/viz/BattlebyCasualties/Sheet1
+To use : https://en.wikipedia.org/wiki/List_of_battles_by_casualties
